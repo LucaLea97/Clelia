@@ -11,14 +11,12 @@ function App() {
     <>
     <body>
     <header>Clelia</header>
-    <main>
     <button> Lock </button>
     <button> Unlock </button>
     <aside>
     <button> Map </button>
     <button> Controls </button>
     </aside>
-    </main>
     </body>
     </>
 
