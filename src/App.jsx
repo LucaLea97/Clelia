@@ -8,7 +8,8 @@ function App() {
 //  const [count, setCount] = useState(0)
 
   return (
-    <>
+    <body>
+    <header>Clelia</header>
     <main>
     <button> Lock </button>
     <button> Unlock </button>
@@ -17,7 +18,7 @@ function App() {
     <button> Controls </button>
     </aside>
     </main>
-    </>
+    </body>
     
 
   )
