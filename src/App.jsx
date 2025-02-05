@@ -8,6 +8,7 @@ function App() {
 //  const [count, setCount] = useState(0)
 
   return (
+    <>
     <body>
     <header>Clelia</header>
     <main>
@@ -19,7 +20,7 @@ function App() {
     </aside>
     </main>
     </body>
-    
+    </>
 
   )
 }
