@@ -10,7 +10,7 @@ function App() {
   return (
     <>
     <body>
-    <div>Clelia</div>
+    <h1>Clelia</h1>
     <button> Lock </button>
     <button> Unlock </button>
     <aside>
