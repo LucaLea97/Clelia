@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-    <body>
+    <main>
     <h1>Clelia</h1>
     <button> Lock </button>
     <button> Unlock </button>
@@ -17,7 +17,7 @@ function App() {
     <button> Map </button>
     <button> Controls </button>
     </aside>
-    </body>
+    </main>
     </>
 
   )
