@@ -9,7 +9,6 @@ function App() {
 
   return (
     <>
-    <body>
     <header>
     <h1>Clelia</h1>
     </header>
@@ -22,7 +21,6 @@ function App() {
     </aside>
     </main>
     <footer>Lea Renergy s.r.l.</footer>
-    </body>
     </>
 
   )
