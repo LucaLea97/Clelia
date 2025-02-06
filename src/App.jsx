@@ -30,6 +30,7 @@ function App() {
         <>
             <main>
                 <h1>Clelia</h1>
+                <h3>Hello {user.email}</h3>
                 <button> Lock </button>
                 <button> Unlock </button>
                 <aside>
