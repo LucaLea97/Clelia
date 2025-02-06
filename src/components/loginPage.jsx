@@ -21,8 +21,11 @@ function LoginPage() {
             <h2>Login or Sign Up</h2>
             <Auth
                 supabaseClient={supabase}
-                providers={['google', 'github']}
-                appearance={{ theme: ThemeSupa }}
+                appearance={{
+                    theme: ThemeSupa,
+                }}
+                providers={[]}
+                theme="dark"
             />
         </div>
     );
