@@ -9,16 +9,20 @@ function App() {
 
   return (
     <>
-    <main>
+    <body>
+    <header>
     <h1>Clelia</h1>
+    </header>
+    <main>
     <button> Lock </button>
     <button> Unlock </button>
     <aside>
     <button> Map </button>
     <button> Controls </button>
     </aside>
-    <footer>Lea Renergy s.r.l.</footer>
     </main>
+    <footer>Lea Renergy s.r.l.</footer>
+    </body>
     </>
 
   )
