@@ -17,6 +17,7 @@ function App() {
     <button> Map </button>
     <button> Controls </button>
     </aside>
+    <footer>Lea Renergy s.r.l.</footer>
     </main>
     </>
 
