@@ -15,11 +15,7 @@ function App() {
     <main>
     <button> Lock </button>
     <button> Unlock </button>
-    <img src="assets/react.svg" 
-      alt="Red"
-      width="2500"
-      height="2500"/>
-    <img src="assets/CleliaAppLogo.png" alt="Logo"/>
+    <img src="assets/react.svg"/>
     <aside>
     <button> Map </button>
     <button> Controls </button>
