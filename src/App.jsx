@@ -15,6 +15,8 @@ function App() {
     <main>
     <button> Lock </button>
     <button> Unlock </button>
+    <img src="assets/RedApp.png" alt="Red"/>
+    <img src="assets/CleliaAppLogo.png" alt="Logo"/>
     <aside>
     <button> Map </button>
     <button> Controls </button>
