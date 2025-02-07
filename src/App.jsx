@@ -15,7 +15,7 @@ function App() {
     <main>
     <button> Lock </button>
     <button> Unlock </button>
-    <img src="assets/RedApp.png" 
+    <img src="RedApp.png" 
       alt="Red"
       width="2500"
       height="2500"/>
