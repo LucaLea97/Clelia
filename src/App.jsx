@@ -15,7 +15,7 @@ function App() {
     <main>
     <button> Lock </button>
     <button> Unlock </button>
-    <img src="RedApp.png" 
+    <img src="assets/react.svg" 
       alt="Red"
       width="2500"
       height="2500"/>
