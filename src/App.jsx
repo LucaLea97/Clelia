@@ -1,6 +1,5 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import CleliaAppLogo from './assets/CleliaAppLogo.png'
 import './App.css'
 
 
@@ -15,7 +14,7 @@ function App() {
     <main>
     <button> Lock </button>
     <button> Unlock </button>
-    <img src="assets/react.svg"/>
+    <img src="assets/CleliaAppLogo.png"/>
     <aside>
     <button> Map </button>
     <button> Controls </button>
