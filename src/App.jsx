@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import CleliaAppLogo from './assets/CleliaAppLogo.png'
+import CleliaAppLogo from '../assets/CleliaAppLogo.png'
 import './App.css'
 
 
@@ -14,7 +14,7 @@ function App() {
     <main>
     <button> Lock </button>
     <button> Unlock </button>
-    <img src="assets/CleliaAppLogo.png"/>
+    <img src={CleliaAppLogo}/>
     <aside>
     <button> Map </button>
     <button> Controls </button>
