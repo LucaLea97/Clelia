@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import CleliaAppLogo from '../assets/CleliaAppLogo.png'
+import CleliaAppLogo from './assets/CleliaAppLogo.png'
 import './App.css'
 
 
