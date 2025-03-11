@@ -16,11 +16,6 @@ return (
     </aside>
     </main>
     <footer>Lea Renergy s.r.l.</footer>
-    /*
-    <div className="App">
-    <Navbar/>
-    </div>
-    */
   );
 }
 
