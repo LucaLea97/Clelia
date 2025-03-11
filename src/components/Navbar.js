@@ -9,5 +9,7 @@ function Navbar(){
     </div>
      <div className="rightSide"></div>
     </div>
-)
+);
 }
+
+export default Navbar;
