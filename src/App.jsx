@@ -7,7 +7,7 @@ function App() {
 //  const [count, setCount] = useState(0)
 
   return (
-    <>
+    /*
     <header>
     <h1>Clelia</h1>
     </header>
@@ -20,9 +20,11 @@ function App() {
     </aside>
     </main>
     <footer>Lea Renergy s.r.l.</footer>
-    </>
-
-  )
+    */
+    <div className="App">
+    <Navbar/>
+    </div>
+  );
 }
 
 export default App
