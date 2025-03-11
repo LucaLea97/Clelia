@@ -9,3 +9,5 @@ function Navbar(){
     </div>
      <div className="rightSide"></div>
     </div>
+)
+}
