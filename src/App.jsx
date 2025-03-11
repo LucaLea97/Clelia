@@ -1,10 +1,9 @@
-import Navbar from './components/Navbar'
+//import Navbar from './components/Navbar'
 import './App.css'
 
 
 function App() {
 return (
-    /*
     <header>
     <h1>Clelia</h1>
     </header>
@@ -17,10 +16,11 @@ return (
     </aside>
     </main>
     <footer>Lea Renergy s.r.l.</footer>
-    */
+    /*
     <div className="App">
     <Navbar/>
     </div>
+    */
   );
 }
 
