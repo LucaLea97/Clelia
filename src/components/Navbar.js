@@ -1,4 +1,4 @@
-import React from "react";
+/*import React from "react";
 import CleliaAppLogo from './assets/CleliaAppLogo.png'
 
 function Navbar(){
@@ -13,3 +13,4 @@ function Navbar(){
 }
 
 export default Navbar;
+*/
