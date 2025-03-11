@@ -8,10 +8,8 @@ return (
     </header>
     <main>
     <button> Lock </button>
-    <button> Unlock </button>
     <aside>
     <button> Map </button>
-    <button> Controls </button>
     </aside>
     </main>
     <footer>Lea Renergy s.r.l.</footer>
